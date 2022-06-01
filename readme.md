@@ -1,5 +1,5 @@
 An old game I created when started learnig Unity.
-That'a mobile game.
+That'a mobile game, kinda tower defence.
 
 ![](https://github.com/Martinson1252/Mayhem/blob/main/4.png)
 ![](https://github.com/Martinson1252/Mayhem/blob/main/3.png)
